@@ -1,0 +1,32 @@
+{
+  "classes": {
+    "766": {
+      "created_date": "2025-09-18",
+      "description": "",
+      "students": {
+        "Li Xing": "HsingL",
+        "Raymond": "ray20220810",
+        "Justin": "TopstrongGem",
+        "Edwin": "littlericecak",
+        "Henry Wu": "funhandymath",
+        "Stephen Chen": "StephenCC82",
+        "Leo": "dream0402",
+        "Yuchen Lee": "YuchenL",
+        "Lucas Zhang": "chessakiraL",
+        "Kevin Huang": "KHLEGO",
+        "Eason": "easonwang1110",
+        "Junhan": "junhanxiao",
+        "Alicia Yan": "Alicia2667",
+        "Lucas Guo": "Lucashateslego",
+        "Zelan": "zmax1",
+        "Kenny": "KennyLi123",
+        "Ryan Shen": "ryanshen15",
+        "Ethan Wang": "Teamsabi"
+      }
+    }
+  },
+  "current_class": "766",
+  "settings": {
+    "round_folder_format": "{class_name}-round{round_number}"
+  }
+}
